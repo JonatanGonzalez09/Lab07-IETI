@@ -1,0 +1,14 @@
+{
+  "name": "lab07-ieti",
+  "version": "1.0.0",
+  "description": "Lab-07-IETI ECI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonatan Gonzalez R.",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0"
+  }
+}
