@@ -1,0 +1,20 @@
+# Lab07-IETI - Escuela Colombiana de Ingenieria Julio Garavito 
+
+## Autor: ##
+**Jonatan Esteban Gonzalez Rodriguez**
+
+## _Despliegue del back en el Azure_ ##
+**Link petición GET:** https://functiontaskplanner.azurewebsites.net/api/list-tasks?code=j1Bq2S5GXsuhzlaE1s10AaJN5aWQg5x5GaEMKLpMEw8X7KFf/qeaAg==
+**Link petición POST:** https://functiontaskplanner.azurewebsites.net/api/add-task?code=K4MbO8/CHs3aJlTBrGEgFsqMePIa0lvAB7/tGCGgceLOAnvWNNViSw==
+
+La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
+
+Código de Honor
+------
+Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
+
+- Tus respuestas a tareas, cuestionarios y exámenes deben ser tu propio trabajo (excepto para las tareas que permiten explícitamente la colaboración).
+
+- No puedes compartir tus soluciones de tareas, cuestionarios o exámenes con otra persona a menos que el instructor lo permita explícitamente. Esto incluye cualquier cosa escrita por ti, como también cualquier solución oficial proporcionada por el docente o el monitor del curso.
+
+- No puedes participar en otras actividades que mejorarán de manera deshonesta tus resultados o que mejorarán de manera deshonesta o dañarán los resultados de otras personas.
